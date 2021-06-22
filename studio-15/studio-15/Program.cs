@@ -8,7 +8,9 @@ namespace studio_15
         {
             Console.WriteLine("Hello everyone!");
             Console.WriteLine("Nice to finally be here!");
+            Console.WriteLine("Hey this is actually kinda cool. Extra line");    
         }
+
 
     }
 }
