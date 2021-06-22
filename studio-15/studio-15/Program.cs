@@ -6,11 +6,13 @@ namespace studio_15
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello everyone!");
+            Console.WriteLine("This is amazing!");
             Console.WriteLine("Nice to finally be here!");
-            Console.WriteLine("Hey this is actually kinda cool. Extra line");    
+            Console.WriteLine("Hey this is actually kinda cool. Extra line");
+            Console.BackgroundColor = ConsoleColor.Yellow
+            Console.WriteLine("It says it's yellow but it still looks the same to me. Adding another sentence.")
         }
-
+        
 
     }
 }
