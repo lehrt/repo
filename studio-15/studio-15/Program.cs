@@ -7,6 +7,7 @@ namespace studio_15
         static void Main(string[] args)
         {
 
+
             Console.WriteLine("WwWweeeee");
             Console.WriteLine("Nice to finally be here!");
             Console.WriteLine("Hey this is actually kinda cool. Extra line");
