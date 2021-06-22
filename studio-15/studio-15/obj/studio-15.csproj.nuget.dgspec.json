@@ -1,28 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/chazmensmith/Desktop/repo/studio-15/studio-15/studio-15.csproj": {}
+    "C:\\Users\\Akilah\\Desktop\\Launchode\\reposit\\communication-log2\\repo\\studio-15\\studio-15\\studio-15.csproj": {}
   },
   "projects": {
-    "/Users/chazmensmith/Desktop/repo/studio-15/studio-15/studio-15.csproj": {
+    "C:\\Users\\Akilah\\Desktop\\Launchode\\reposit\\communication-log2\\repo\\studio-15\\studio-15\\studio-15.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/chazmensmith/Desktop/repo/studio-15/studio-15/studio-15.csproj",
+        "projectUniqueName": "C:\\Users\\Akilah\\Desktop\\Launchode\\reposit\\communication-log2\\repo\\studio-15\\studio-15\\studio-15.csproj",
         "projectName": "studio-15",
-        "projectPath": "/Users/chazmensmith/Desktop/repo/studio-15/studio-15/studio-15.csproj",
-        "packagesPath": "/Users/chazmensmith/.nuget/packages/",
-        "outputPath": "/Users/chazmensmith/Desktop/repo/studio-15/studio-15/obj/",
+        "projectPath": "C:\\Users\\Akilah\\Desktop\\Launchode\\reposit\\communication-log2\\repo\\studio-15\\studio-15\\studio-15.csproj",
+        "packagesPath": "C:\\Users\\Akilah\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Akilah\\Desktop\\Launchode\\reposit\\communication-log2\\repo\\studio-15\\studio-15\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/chazmensmith/.config/NuGet/NuGet.Config"
+          "C:\\Users\\Akilah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
