@@ -2,7 +2,11 @@
   <MonoDevelop.Ide.ItemProperties.studio-15 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="studio-15/Program.cs">
     <Files>
+<<<<<<< HEAD
       <File FileName="studio-15/Program.cs" Line="9" Column="39" />
+=======
+      <File FileName="studio-15/Program.cs" Line="1" Column="1" />
+>>>>>>> e59f77427abf8aa497523ab200076557d3cb754e
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
